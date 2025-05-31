@@ -15,5 +15,5 @@ https://seanlahman.com
 ### Project File
 [View Project file](https://github.com/vibvinit/Major-League-Baseball-MLB-/blob/main/Rugby%20league%20SQL.pdf)
 
-### SQL Files
+### SQL File
 [View SQL script](https://github.com/vibvinit/Major-League-Baseball-MLB-/blob/main/Maven%20Advanced%20Project%20Queries.sql)
